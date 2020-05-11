@@ -1,4 +1,4 @@
-### Techniques followed in the Transformer's implementation that may generalize to other implementations
+### Implementation Techniques
 
 1. Create a large structure which can be filled in with smaller pieces (EncoderDecoder)
 
