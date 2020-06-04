@@ -8,7 +8,8 @@
 
 4. 
 
-
+For output, query, key, value &isin; R<sup>n</sup>  
 Attention<sub>1:h</sub> = (query,[key,value]<sub>1:n</sub>) &rarr;  output  
   score(query, key)  
-  output = SumAll(score<sub>i</sub> * value<sub>i</sub>)
+  output = &sum; (score<sub>i</sub> * value<sub>i</sub>)  
+
